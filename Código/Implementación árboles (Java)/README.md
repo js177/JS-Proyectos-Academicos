@@ -5,7 +5,7 @@ _En esta práctica, hemos realizado un ejemplo de lo que podría ser una impleme
 _Para ello, se nos propuso un enunciado en el cual se nos explicaban los siguientes objetivos a trabajar y cumplir:_
 
 ```
-Implementa dos clases, "Coordenada" y "PLoc", y acontinuación realiza la implementación, de una adaptación, de árbol 4-ario de objetos de tipo "PLoc". Se usarán tipos de datos no lineales del API de Java y las clases implementadas para resolver problemas de búsqueda.
+Implementa dos clases, "Coordenada" y "PLoc", y a continuación realiza la implementación, de una adaptación, de árbol 4-ario de objetos de tipo "PLoc". Se usarán tipos de datos no lineales del API de Java y las clases implementadas para resolver problemas de búsqueda.
 ```
 
 _En esta implementación, hemos hecho uso de objetos tipo "Nodo" para ejercer de "aristas" al usarlos como punteros, estableciendo las ramas entre los objetos PLoc dentro de los nodos. Resultando en la implementación final de las siguientes clases para realizar la práctica:_
