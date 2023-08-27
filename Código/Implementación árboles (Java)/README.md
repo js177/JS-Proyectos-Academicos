@@ -18,4 +18,4 @@ _En esta implementación, hemos hecho uso de objetos tipo "Nodo" para ejercer de
 
 ***Nodo*** _{clase privada de la clase "Arbol"}_
 
-**BuscaLocalizacion2.java** _{clase de la aplicacion}_
+**BuscaLocalizacion2.java** _{clase de la aplicación}_
